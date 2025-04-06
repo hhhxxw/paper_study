@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "2b9a738ce310d549",
+    "type": "split",
+    "children": [
+      {
+        "id": "632efd37489efbe2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0bda8d3f3c9d951",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d0b0c8e362b61b11",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "614390b4a467a519",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sumo_study/sumo的学习.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sumo的学习"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fe2389dc386c19cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7566cb65bdfeeb2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a19cf36918724b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "4f2a5558b6ec7929",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b1629c3803a469cf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "66e8d8cb0fcdb517",
+    "type": "split",
+    "children": [
+      {
+        "id": "85e29ec76a2f5e9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c90e0fe70fd8ea6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "sumo_study/sumo的学习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "sumo的学习 的反向链接列表"
+            }
+          },
+          {
+            "id": "7d50c3d8dc53bdb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "sumo_study/sumo的学习.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "sumo的学习 的出链列表"
+            }
+          },
+          {
+            "id": "6ad9417afacf65f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "58259d75227fdbbf",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "sumo_study/sumo的学习.md"
+              },
+              "icon": "lucide-list",
+              "title": "sumo的学习 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c0bda8d3f3c9d951",
+  "lastOpenFiles": [
+    "sumo_study/sumo的学习.md",
+    "欢迎.md",
+    "sumo_study/assets",
+    "sumo_study"
+  ]
+}
